@@ -1,6 +1,3 @@
-Here’s a polished, improved `README.md` for your Unscramble Game Android app:
-
-````markdown
 # Unscramble Game 🧠🔤
 
 **A single-player Android game** built in Kotlin. Unscramble the letters to form correct words, track your progress, and master Android app fundamentals using Jetpack’s ViewModel and LiveData.
@@ -39,7 +36,7 @@ Here’s a polished, improved `README.md` for your Unscramble Game Android app:
 1. **Clone** the repo:  
    ```bash
    git clone https://github.com/Anmol-sudo/unscramble-game-app.git
-````
+   ````
 
 2. **Open** the project in Android Studio.
 3. **Sync** Gradle and build the project.
