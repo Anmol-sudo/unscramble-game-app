@@ -1,6 +1,3 @@
-Here’s a polished, improved `README.md` for your Unscramble Game Android app:
-
-````markdown
 # Unscramble Game 🧠🔤
 
 **A single-player Android game** built in Kotlin. Unscramble the letters to form correct words, track your progress, and master Android app fundamentals using Jetpack’s ViewModel and LiveData.
@@ -39,7 +36,7 @@ Here’s a polished, improved `README.md` for your Unscramble Game Android app:
 1. **Clone** the repo:  
    ```bash
    git clone https://github.com/Anmol-sudo/unscramble-game-app.git
-````
+   ````
 
 2. **Open** the project in Android Studio.
 3. **Sync** Gradle and build the project.
@@ -92,7 +89,17 @@ build.gradle
 
 ## 📚 Inspiration
 
-This app is based on the official Google Jetpack examples that illustrate ViewModel and LiveData usage in a small Android game ([github.com][1], [github.com][2], [medium.com][3], [lokalise.com][4], [github.com][5]).
+This app is based on the official Google Jetpack examples that illustrate ViewModel and LiveData usage in a small Android game 
+
+---
+
+## Screenshots
+<div>
+  <img src="https://github.com/user-attachments/assets/7035d755-fbc5-41c5-b707-39e3f06bb343" alt="darkTheme" width="300" />
+  <img src="https://github.com/user-attachments/assets/5b9f8905-d54a-4cf2-8909-ad1898376f3c" alt="lightTheme" width="300" />
+</div>
+
+---
 
 ---
 
